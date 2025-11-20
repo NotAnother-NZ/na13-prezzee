@@ -1,0 +1,137 @@
+<!-- Hreflang cluster: Featured -->
+<link rel="alternate" hreflang="en-us" href="https://www.prezzee.com/store/featured">
+<link rel="alternate" hreflang="en-au" href="https://www.prezzee.com.au/store/featured">
+<link rel="alternate" hreflang="en-nz" href="https://www.prezzee.co.nz/store/featured">
+<link rel="alternate" hreflang="en-gb" href="https://www.prezzee.uk/store/featured">
+<link rel="alternate" hreflang="x-default" href="https://www.prezzee.com/store/featured">
+
+<!-- Hreflang cluster: Luxury -->
+<link rel="alternate" hreflang="en-us" href="https://www.prezzee.com/store/luxury">
+<link rel="alternate" hreflang="en-au" href="https://www.prezzee.com.au/store/luxury">
+<link rel="alternate" hreflang="en-nz" href="https://www.prezzee.co.nz/store/luxury">
+<link rel="alternate" hreflang="en-gb" href="https://www.prezzee.uk/store/luxury">
+<link rel="alternate" hreflang="x-default" href="https://www.prezzee.com/store/luxury">
+
+<!-- Hreflang cluster: Kids -->
+<link rel="alternate" hreflang="en-us" href="https://www.prezzee.com/store/kids">
+<link rel="alternate" hreflang="en-au" href="https://www.prezzee.com.au/store/kids">
+<link rel="alternate" hreflang="en-nz" href="https://www.prezzee.co.nz/store/kids">
+<link rel="alternate" hreflang="en-gb" href="https://www.prezzee.uk/store/kids">
+<link rel="alternate" hreflang="x-default" href="https://www.prezzee.com/store/kids">
+
+<!-- Hreflang cluster: Celebrations -->
+<link rel="alternate" hreflang="en-us" href="https://www.prezzee.com/store/celebrations">
+<link rel="alternate" hreflang="en-au" href="https://www.prezzee.com.au/store/celebrations">
+<link rel="alternate" hreflang="en-nz" href="https://www.prezzee.co.nz/store/celebrations">
+<link rel="alternate" hreflang="en-gb" href="https://www.prezzee.uk/store/celebrations">
+<link rel="alternate" hreflang="x-default" href="https://www.prezzee.com/store/celebrations">
+
+<!-- Hreflang cluster: Fashion -->
+<link rel="alternate" hreflang="en-us" href="https://www.prezzee.com/store/fashion">
+<link rel="alternate" hreflang="en-au" href="https://www.prezzee.com.au/store/fashion">
+<link rel="alternate" hreflang="en-nz" href="https://www.prezzee.co.nz/store/fashion">
+<link rel="alternate" hreflang="en-gb" href="https://www.prezzee.uk/store/fashion-and-accessories">
+<link rel="alternate" hreflang="x-default" href="https://www.prezzee.com/store/fashion">
+
+<!-- Hreflang cluster: Sport & Fitness -->
+<link rel="alternate" hreflang="en-us" href="https://www.prezzee.com/store/sport-and-fitness">
+<link rel="alternate" hreflang="en-au" href="https://www.prezzee.com.au/store/sport-and-fitness">
+<link rel="alternate" hreflang="en-nz" href="https://www.prezzee.co.nz/store/sport-and-fitness">
+<link rel="alternate" hreflang="en-gb" href="https://www.prezzee.uk/store/sport-and-fitness">
+<link rel="alternate" hreflang="x-default" href="https://www.prezzee.com/store/sport-and-fitness">
+
+<!-- Hreflang cluster: Food & Wine -->
+<link rel="alternate" hreflang="en-us" href="https://www.prezzee.com/store/food-and-wine">
+<link rel="alternate" hreflang="en-au" href="https://www.prezzee.com.au/store/food-and-wine">
+<link rel="alternate" hreflang="en-nz" href="https://www.prezzee.co.nz/store/food-and-wine">
+<link rel="alternate" hreflang="en-gb" href="https://www.prezzee.uk/store/food-and-wine">
+<link rel="alternate" hreflang="x-default" href="https://www.prezzee.com/store/food-and-wine">
+
+<!-- Hreflang cluster: Gift Card Deals / Offers -->
+<link rel="alternate" hreflang="en-us" href="https://www.prezzee.com/store/gift-card-deals-and-offers">
+<link rel="alternate" hreflang="en-au" href="https://www.prezzee.com.au/store/gift-card-deals">
+<link rel="alternate" hreflang="en-nz" href="https://www.prezzee.co.nz/store/deals-and-offers">
+<link rel="alternate" hreflang="en-gb" href="https://www.prezzee.uk/store/gift-card-deals">
+<link rel="alternate" hreflang="x-default" href="https://www.prezzee.com/store/gift-card-deals-and-offers">
+
+
+
+<!-- Hreflang cluster: Grocery & Supermarket -->
+<link rel="alternate" hreflang="en-us" href="https://www.prezzee.com/store/grocery-gift-cards">
+<link rel="alternate" hreflang="en-au" href="https://www.prezzee.com.au/store/supermarket-gift-cards">
+<link rel="alternate" hreflang="en-nz" href="https://www.prezzee.co.nz/store/supermarket">
+<link rel="alternate" hreflang="en-gb" href="https://www.prezzee.uk/store/supermarkets">
+<link rel="alternate" hreflang="x-default" href="https://www.prezzee.com/store/grocery-gift-cards">
+
+<!-- Hreflang cluster: Health & Beauty -->
+<link rel="alternate" hreflang="en-us" href="https://www.prezzee.com/store/health-and-beauty">
+<link rel="alternate" hreflang="en-au" href="https://www.prezzee.com.au/store/health-and-beauty">
+<link rel="alternate" hreflang="en-nz" href="https://www.prezzee.co.nz/store/health-and-beauty">
+<link rel="alternate" hreflang="en-gb" href="https://www.prezzee.uk/store/health-and-beauty">
+<link rel="alternate" hreflang="x-default" href="https://www.prezzee.com/store/health-and-beauty">
+
+<!-- Hreflang cluster: Home -->
+<link rel="alternate" hreflang="en-us" href="https://www.prezzee.com/store/home">
+<link rel="alternate" hreflang="en-au" href="https://www.prezzee.com.au/store/home">
+<link rel="alternate" hreflang="en-nz" href="https://www.prezzee.co.nz/store/home">
+<link rel="alternate" hreflang="en-gb" href="https://www.prezzee.uk/store/home">
+<link rel="alternate" hreflang="x-default" href="https://www.prezzee.com/store/home">
+
+<!-- Hreflang cluster: Travel / Outdoor -->
+<link rel="alternate" hreflang="en-us" href="https://www.prezzee.com/store/outdoor">
+<link rel="alternate" hreflang="en-au" href="https://www.prezzee.com.au/store/outdoor">
+<link rel="alternate" hreflang="en-nz" href="https://www.prezzee.co.nz/store/travel-and-outdoor">
+<link rel="alternate" hreflang="en-gb" href="https://www.prezzee.uk/store/travel-and-outdoor">
+<link rel="alternate" hreflang="x-default" href="https://www.prezzee.com/store/outdoor">
+
+<!-- Hreflang cluster: Restaurants / Eating Out -->
+<link rel="alternate" hreflang="en-us" href="https://www.prezzee.com/store/restaurant-and-eating-out-gift-cards">
+<link rel="alternate" hreflang="en-au" href="https://www.prezzee.com.au/store/restaurant-gift-cards">
+<link rel="alternate" hreflang="en-nz" href="https://www.prezzee.co.nz/store/restaurant-and-eating-out-gift-cards">
+<link rel="alternate" hreflang="en-gb" href="https://www.prezzee.uk/store/eating-out">
+<link rel="alternate" hreflang="x-default" href="https://www.prezzee.com/store/restaurant-and-eating-out-gift-cards">
+
+<!-- Hreflang cluster: Food Delivery / Takeaway -->
+<link rel="alternate" hreflang="en-us" href="https://www.prezzee.com/store/takeaway-and-food-delivery-gift-cards">
+<link rel="alternate" hreflang="en-au" href="https://www.prezzee.com.au/store/takeaway-and-food-delivery-gift-cards">
+<link rel="alternate" hreflang="en-nz" href="https://www.prezzee.co.nz/store/food-delivery">
+<link rel="alternate" hreflang="en-gb" href="https://www.prezzee.uk/store/eating-in">
+<link rel="alternate" hreflang="x-default" href="https://www.prezzee.com/store/takeaway-and-food-delivery-gift-cards">
+
+<!-- Hreflang cluster: Online Shopping -->
+<link rel="alternate" hreflang="en-us" href="https://www.prezzee.com/store/online-shopping">
+<link rel="alternate" hreflang="en-au" href="https://www.prezzee.com.au/store/online-shopping">
+<link rel="alternate" hreflang="en-nz" href="https://www.prezzee.co.nz/store/online-shopping">
+<link rel="alternate" hreflang="en-gb" href="https://www.prezzee.uk/store/online-shopping">
+<link rel="alternate" hreflang="x-default" href="https://www.prezzee.com/store/online-shopping">
+
+<!-- Hreflang cluster: Charity -->
+<link rel="alternate" hreflang="en-au" href="https://www.prezzee.com.au/store/charity">
+<link rel="alternate" hreflang="x-default" href="https://www.prezzee.com.au/store/charity">
+
+<!-- Hreflang cluster: Gaming -->
+<link rel="alternate" hreflang="en-us" href="https://www.prezzee.com/store/gaming">
+<link rel="alternate" hreflang="en-au" href="https://www.prezzee.com.au/store/gaming">
+<link rel="alternate" hreflang="en-nz" href="https://www.prezzee.co.nz/store/gaming">
+<link rel="alternate" hreflang="x-default" href="https://www.prezzee.com/store/gaming">
+
+<!-- Hreflang cluster: Technology -->
+<link rel="alternate" hreflang="en-au" href="https://www.prezzee.com.au/store/tech">
+<link rel="alternate" hreflang="en-gb" href="https://www.prezzee.uk/store/tech">
+<link rel="alternate" hreflang="x-default" href="https://www.prezzee.com.au/store/tech">
+
+<!-- Hreflang cluster: Prezzee Picks -->
+<link rel="alternate" hreflang="en-gb" href="https://www.prezzee.uk/store/prezzee-picks">
+<link rel="alternate" hreflang="x-default" href="https://www.prezzee.uk/store/prezzee-picks">
+
+<!-- Hreflang cluster: Subscriptions -->
+<link rel="alternate" hreflang="en-au" href="https://www.prezzee.com.au/store/subscriptions">
+<link rel="alternate" hreflang="x-default" href="https://www.prezzee.com.au/store/subscriptions">
+
+<!-- Hreflang cluster: Footy -->
+<link rel="alternate" hreflang="en-au" href="https://www.prezzee.com.au/store/footy-finals">
+<link rel="alternate" hreflang="x-default" href="https://www.prezzee.com.au/store/footy-finals">
+
+<!-- Hreflang cluster: Sustainable Gifting -->
+<link rel="alternate" hreflang="en-au" href="https://www.prezzee.com.au/store/sustainable-gifting">
+<link rel="alternate" hreflang="x-default" href="https://www.prezzee.com.au/store/sustainable-gifting">
